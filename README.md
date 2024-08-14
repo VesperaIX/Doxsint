@@ -11,13 +11,13 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 <img src="https://raw.githubusercontent.com/ZeroSaturnn/Doxsint/main/src/demo.gif"><br>
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint && chmod +x start.sh`
+`$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint`
 
 # Usage
-`$ ./start.sh`
+`$ python3 start.py`
 
 # Alternative Mode
-`$ ./start.sh -u (username) -s (site [optional])`.
+`$ python3 start.py -u (username) -s (site [optional])`.
 
 **Author:**
 
