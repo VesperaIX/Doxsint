@@ -18,10 +18,10 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 `$ python3 start.py`
 
 # Alternative Mode
-`$ python3 start.py -u (username) -s (site [optional])`.
+`$ python3 start.py -u (username) -s (site [optional])`
 
 # Disclamer
-I am not responsible for any fraudulent acts committed. Even though open source is legal, please use it wisely and responsibly.
+I am not responsible for any fraudulent acts committed. Even though open source is legal, please use it wisely and responsibly
 
 **Author:**
 
