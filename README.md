@@ -14,7 +14,7 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 `$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint && chmod +x start.sh`
 
 # Usage
-`./start.sh`
+`$ ./start.sh`
 
 # Alternative Mode
 `$ ./start.sh -u (username) -s (site [optional])`.
