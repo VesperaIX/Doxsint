@@ -8,7 +8,7 @@
 
 Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-definition) tool to collect account information and connections. Both comments on posts on social media or others.
 
-<img src="https://raw.githubusercontent.com/ZeroSaturnn/Doxsint/main/src/video-ezgif.com-video-to-gif-converter.gif"><br>
+<img src="https://raw.githubusercontent.com/ZeroSaturnn/Doxsint/main/src/demo.gif"><br>
 
 # Instalation
 `$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint && chmod +x start.sh`
