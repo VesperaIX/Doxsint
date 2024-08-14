@@ -22,7 +22,9 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 
 # Disclamer
 I am not responsible for any fraudulent acts committed. Even though open source is legal, please use it wisely and responsibly
+<br>
 Regards,
+<br>
 Zerosaturnn
 
 **Author:**
