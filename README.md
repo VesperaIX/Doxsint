@@ -12,6 +12,7 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 
 # Instalation
 `$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint`
+`$ pip3 install -r requirements.txt`
 
 # Usage
 `$ python3 start.py`
