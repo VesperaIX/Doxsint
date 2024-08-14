@@ -11,8 +11,10 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 <img src="https://raw.githubusercontent.com/ZeroSaturnn/Doxsint/main/src/video-ezgif.com-video-to-gif-converter.gif"><br>
 
 # Instalation
-1. `$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint && chmod +x start.sh`
-2. `./start.sh`
+`$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint && chmod +x start.sh`
+
+# Usage
+`./start.sh`
 
 # Alternative Mode
 `$ ./start.sh -u (username) -s (site [optional])`.
