@@ -1,7 +1,7 @@
 <h1 align="center">Doxsint Tool</h1>
 
 <p align="center">
-    <img src="https://github.com/ZeroSaturnn/Doxsint/blob/main/src/img.png">
+    <img src="https://github.com/VesperaIX/Doxsint/blob/main/src/img.png">
 </p>
 
 <br>
@@ -9,7 +9,7 @@
 Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-definition) tool to collect account information and connections. Both comments on posts on social media or others.
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/Doxsint && cd Doxsint`<br>
+`$ git clone https://github.com/VesperaIX/Doxsint && cd Doxsint`<br>
 `$ pip3 install -r requirements.txt`
 
 # Usage
@@ -24,8 +24,8 @@ I am not responsible for any fraudulent acts committed. Even though open source 
 <br>
 Regards,
 <br>
-Zerosaturnn
+VesperaIX
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **VesperaIX**
+- **Discord: VesperaIX**
