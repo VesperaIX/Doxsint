@@ -1,7 +1,7 @@
 <h1 align="center">Doxsint Tool</h1>
 
 <p align="center">
-    <img src="https://github.com/VesperaIX/Doxsint/blob/main/src/img.png">
+    <img src="https://raw.githubusercontent.com/VesperaIX/Doxsint/refs/heads/main/src/img.png">
 </p>
 
 <br>
