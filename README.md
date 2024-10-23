@@ -6,7 +6,7 @@
 
 <br>
 
-Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-definition) tool to collect account information and connections. Both comments on posts on social media or others.
+Simpel [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-definition) alat untuk mengumpulkan informasi dan koneksi akun. Baik itu komentar pada postingan di media sosial atau lainnya.
 
 # Instalation
 `$ git clone https://github.com/VesperaIX/Doxsint && cd Doxsint`<br>
@@ -15,11 +15,8 @@ Simple [OSINT](https://www.recordedfuture.com/blog/open-source-intelligence-defi
 # Usage
 `$ python3 start.py`
 
-# Alternative Mode
-`$ python3 start.py -t (username/name) -w (site [optional])`
-
 # Disclamer
-I am not responsible for any fraudulent acts committed. Even though open source is legal, please use it wisely and responsibly.
+Saya tidak bertanggung jawab atas segala tindakan penipuan yang dilakukan. Meskipun open source itu legal, harap gunakan dengan bijak dan bertanggung jawab.
 <br>
 <br>
 Regards,
